@@ -9,9 +9,9 @@ redirect_from:
 
 About me
 ------
-I am a biologist interested in the evolutionary processes, ecological parameters and neural mechanisms that shape animal behavior.
+I am a biologist interested in the evolutionary processes, environmental factors, and molecular and neural mechanisms that shape animal behavior.
 
-I’m a Postdoctoral Fellow with [Gilles Laurent](https://brain.mpg.de/laurent) at the Max Planck Institute for Brain Research, where I study the prey capture behavior of the [Australian bearded dragon](https://www.nature.com/articles/s41592-024-02485-2) (_Pogona vitticeps_). My goal is to understand the evolution and resilience of the amniote brain in the face of environmental challenges, focusing on temperature.
+I’m currently a Postdoctoral Fellow with [Gilles Laurent](https://brain.mpg.de/laurent) at the Max Planck Institute for Brain Research, where I study the neural basis of prey capture behavior and its plasticity in the [Australian bearded dragon](https://www.nature.com/articles/s41592-024-02485-2) (_Pogona vitticeps_).
 
 I received my PhD under the supervision of [Hopi Hoekstra](https://hoekstra.oeb.harvard.edu/) at Harvard University. I [discovered](https://www.nature.com/articles/s41586-025-09241-2) that two closely related but ecologically distinct deer mouse species (genus _Peromyscus_) have different thresholds to escape from visual threat, and traced this behavioral difference to a brain region involved in decision making. This work was a collaborative effort with Katja Reinhard and the Farrow Lab.
 
